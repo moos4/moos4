@@ -2,11 +2,6 @@
 - 👀 I’m interested in game developement, modding and web-app bulding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me. You can reach me via my mail moos.kaas.wat@gmail.com
+- 📫 How to reach me. You can reach me via my discord (i'll link it later)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
-
-<!---
-moos4/moos4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: nothing special about me
